@@ -1,0 +1,78 @@
+header {
+  height: 100px;
+  background-color: powderblue;
+}
+
+main {
+  height: auto;
+  background-color: green;
+}
+
+footer {
+  height: 800px;
+  background-color: tan;
+}
+
+h1 {
+  margin: 0;
+}
+
+.wrapper {
+  width: 500px;
+  margin: auto;
+}
+
+Meme1 {
+  width: 100%
+}
+
+Meme2 {
+  width: 100%
+}
+
+Meme3 {
+  width: 100%
+}
+
+
+a:link {
+  color: black;
+}
+
+a:visited{
+  color:navy blue;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
+}
+
+p {
+  border: 8px dotted yellow;
+}
+
+main {
+  margin:0px;
+  border-bottom: 0px;
+}
+
+div {
+  margin: 0px;
+}
+
+footer {
+  margin: 0px;
+  border-top: 0px;
+}
+
+.badp {
+ margin: 0px;
+}
+
+.ending {
+  margin: 0px; 
+}
